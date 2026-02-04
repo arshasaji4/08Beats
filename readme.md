@@ -3,6 +3,8 @@
 
 # 🎧 Beats Headphones Landing Page
 
+[live@](https://08-beats.vercel.app/)
+
 A fully responsive **Beats Headphones landing page** built using **HTML** and **Tailwind CSS**.
 This project showcases a modern UI design with mobile-first responsiveness and clean layout structure.
 
@@ -26,6 +28,11 @@ This project showcases a modern UI design with mobile-first responsiveness and c
 * **Tailwind CSS (CDN)**
 * **Font Awesome Icons**
 * **Responsive Design Principles**
+
+
+
+## Sample
+![img](download%20(2).png)
 
 
 
